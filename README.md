@@ -1,11 +1,11 @@
 # 💼 Resumen de Proyecto - Portafolio Personal (V1.0)
 
-![HTML](https://img.shields.io/w3c-validation/html)
-![Bootstrap](https://img.shields.io/bower/l/bootstrap)
-![CSS](https://img.shields.io/badge/css)
+![HTML](https://img.shields.io/badge/HTML-project-orange?logo=html)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-build-blue?logo=bootstrap)
+![CSS](https://img.shields.io/badge/CSS-project-green?logo=css)
 
-En este repositorio se encuentra el código fuente de mi portafolio personal, el cual fue desarrollado como parte de mi primer proyecto para la materia Frontend en la carrera de Técnico Superior en Desarrollo de Software en el IFTS N° 29.
-En el portafolio se encuentra información sobre mí, mis habilidades, mis proyectos y formas de contactarme. Se desarrollo utilizando HTML, CSS y Bootstrap.
+### En este repositorio se encuentra el código fuente de mi portafolio personal, el cual fue desarrollado como parte de mi primer proyecto para la materia Frontend en la carrera de Técnico Superior en Desarrollo de Software en el IFTS N° 29.
+### En el portafolio se encuentra información sobre mí, mis habilidades, mis proyectos y formas de contactarme. Se desarrollo utilizando HTML, CSS y Bootstrap.
 ---
 
 ## Publicación en GitHub Pages
