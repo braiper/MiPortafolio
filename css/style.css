@@ -1,0 +1,96 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css");
+
+:root {
+  --bg: #0b0f1a;
+  --bg-2: #131a2b;
+  --accent: #00e5ff;
+  --accent-2: #7a29ff;
+  --text: #e6f1ff;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background: radial-gradient(1200px 600px at 20% 0%, #0f1730 0%, var(--bg) 60%) fixed,
+              linear-gradient(160deg, var(--bg-2), var(--bg));
+  color: var(--text);
+  font-family: "Ubuntu", system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+a:hover {
+  color: #9af8ff;
+}
+
+header .brand-title {
+  color: var(--text);
+}
+
+.navbar {
+  backdrop-filter: saturate(140%) blur(6px);
+  border-bottom: 1px solid rgba(122, 41, 255, 0.25);
+  box-shadow: 0 0 0 1px rgba(0, 229, 255, 0.06) inset, 0 6px 30px rgba(0,0,0,0.35);
+}
+.navbar .nav-link {
+  font-weight: 500;
+}
+.navbar .nav-link.active, .navbar .nav-link:hover {
+  color: var(--accent);
+}
+
+section {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+section h2 {
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  color: var(--text);
+  text-shadow: 0 0 8px rgba(0, 229, 255, 0.5), 0 0 18px rgba(122, 41, 255, 0.35);
+}
+
+.card.bg-dark {
+  background-color: #0f1a2b !important;
+  border: 1px solid rgba(0, 229, 255, 0.12);
+  box-shadow: 0 10px 24px rgba(0,0,0,0.35);
+}
+.card.bg-dark .card-title {
+  color: var(--text);
+}
+.card.bg-dark .card-text {
+  color: #cfe8ff;
+}
+.card.bg-dark:hover {
+  transform: translateY(-4px);
+  transition: transform .2s ease;
+  border-color: rgba(122, 41, 255, 0.35);
+}
+
+.badge-accent {
+  background: linear-gradient(45deg, var(--accent), var(--accent-2));
+  color: #0b0f1a;
+}
+
+.table-dark {
+  --bs-table-bg: #0f1a2b;
+  --bs-table-striped-bg: #0c1422;
+  --bs-table-striped-color: var(--text);
+  --bs-table-color: var(--text);
+}
+
+.footer {
+  border-top: 1px solid rgba(0, 229, 255, 0.1);
+  background: #0b0f1a;
+  color: #c9e6ff;
+}
+
+.avatar {
+  border: 2px solid rgba(0, 229, 255, 0.25);
+  box-shadow: 0 0 20px rgba(122, 41, 255, 0.25);
+}
