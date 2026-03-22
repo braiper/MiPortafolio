@@ -13,9 +13,9 @@
     2. En “Build and deployment”, seleccionar Source: “Deploy from a branch”.
     3. Elegir la rama main y la carpeta raíz (/).
     4. Guardar. GitHub generará una URL del tipo:
-   https://USUARIO.github.io/NOMBRE-DEL-REPO/
+        https://USUARIO.github.io/NOMBRE-DEL-REPO/
     5. Una vez publicado, actualiza aquí la URL:
-    URL de GitHub Pages: https://braiper.github.io/NOMBRE-DEL-REPO/
+        URL de GitHub Pages: https://braiper.github.io/NOMBRE-DEL-REPO/
 ---
 ## Checklist - Práctica Formativa Obligatoria 1
 ### Estructura del Proyecto:
