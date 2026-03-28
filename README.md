@@ -23,7 +23,7 @@ https://mi-portafolio-puce-three.vercel.app/
 [✓] Repositorio en GitHub creado.
 [✓] Proyecto subido al repositorio.
 [✓] Proyecto publicado utilizando GitHub Pages.
-[✓] En el "README.md" se indica la URL de GitHub Pages. (ver sección “Publicación en GitHub Pages”)
+[✓] En el "README.md" se indica la URL de Vercel.
 ### Uso de Google Fonts:
 [✓] Enlace a Google Fonts incluido en la sección "head" del HTML.
 [✓] La tipografía importada se aplica en el sitio.
